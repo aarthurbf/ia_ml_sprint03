@@ -1,4 +1,4 @@
-# Ford — Segmentação e Classificação de Clientes para Retenção na Rede Oficial
+# Ford - Segmentação e Classificação de Clientes para Retenção na Rede Oficial
 
 Projeto desenvolvido para o Sprint de Inteligência Artificial & Machine Learning, propondo uma solução analítica para o desafio da Ford: prever, já no momento da compra do veículo, qual será o comportamento futuro do cliente em relação à manutenção na rede oficial, permitindo ações de retenção proativas e personalizadas.
 
